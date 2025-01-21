@@ -4,4 +4,6 @@ author:
   name: Leibniz Institute of European History
   email: info@ieg-mainz.de
 description: Website of the Global Humanitarianism Research Academy (GHRA)
-imprinturl: https://www.ieg-mainz.de/impressum
+imprint:
+  url: https://www.ieg-mainz.de/impressum
+  name: Imprint
