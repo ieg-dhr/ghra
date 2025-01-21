@@ -15,14 +15,14 @@
           {%- endif %}
         </ul>
       {%- endif %}
-      {%- if site.imprinturl %}
-        <p>
-          <a href="{{ site.imprinturl | absolute_url }}">{{ site.imprinturl }}</a>
-        </p>
-      {%- endif %}
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
+              {%- if site.imprinturl %}
+        <p>
+          <a href="{{ site.imprint.url | absolute_url }}">{{ site.imprint.name }}</a>
+        </p>
+      {%- endif %}
       </div>
     </div>
 
