@@ -8,7 +8,7 @@ The international GLOBAL HUMANITARIANISM RESEARCH ACADEMY (GHRA) offered researc
 
 The academic session at Mainz and Exeter was each year followed by a one week archival session at Geneva. Here the archives of the ICRC offered a unique insight into humanitarian action during the past 150 years. The holdings provided rich material, including visual material, for the history of international affairs in the ages of nation states, empires and global governance, particularly the study of humanitarianism, humanitarian law, conflicts studies as well as related issues such as human rights. Under the guidance of the experienced staff from the archive, the members of the Research Academy studied primary sources related to the previous discussions at Exeter as well as to their own research projects if applicable. Opportunities will also be provided for intensive discussions with active members of the ICRC staff and other Geneva based humanitarian organisations.
 
-Following the Research Academy, the participants  each wrote an entry for the [Online Atlas on the History of Humanitarianism and Human Rights] (https://hhr-atlas.ieg-mainz.de/) which is jointly published by the Leibniz Institute of European History and the Centre for Imperial and Global History at the University of Exeter as part of the GHRA.
+Following the Research Academy, the participants each wrote an entry for the [Online Atlas on the History of Humanitarianism and Human Rights](https://hhr-atlas.ieg-mainz.de/) which is jointly published by the Leibniz Institute of European History and the Centre for Imperial and Global History at the University of Exeter as part of the GHRA.
 
 Academy Leaders:
 - Fabian Klose, [University of Cologne](http://histinst.uni-koeln.de/index.php?id=37)
