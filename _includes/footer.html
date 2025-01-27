@@ -5,6 +5,7 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
+      <p>{{ site.description | escape }}</p>
       {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
@@ -15,19 +16,12 @@
           {%- endif %}
         </ul>
       {%- endif %}
-      </div>
-      <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
       {%- if site.imprint %}
         <p><a href="{{ site.imprint.url | absolute_url }}">{{ site.imprint.name }}</a></p>
       {%- endif %}
       </div>
     </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
-
+    
   </div>
 
 </footer>
