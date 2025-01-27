@@ -18,10 +18,8 @@
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
-              {%- if site.imprinturl %}
-        <p>
-          <a href="{{ site.imprint.url | absolute_url }}">{{ site.imprint.name }}</a>
-        </p>
+      {%- if site.imprint %}
+        <p><a href="{{ site.imprint.url | absolute_url }}">{{ site.imprint.name }}</a></p>
       {%- endif %}
       </div>
     </div>
