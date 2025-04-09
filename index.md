@@ -1,8 +1,8 @@
 ---
 layout: page
+title: GHRA - Researching in the entangled fields of humanitarianism, international humanitarian law, peace and conflict studies as well as human rights in the period from the 18th to the 20th century.
 ---
 
-### GHRA - Researching in the entangled fields of humanitarianism, international humanitarian law, peace and conflict studies as well as human rights in the period from the 18th to the 20th century.
 
 The international GLOBAL HUMANITARIANISM RESEARCH ACADEMY (GHRA) offered research training to advanced PhD candidates and early postdocs. It combines academic sessions at the Imperial and Global History Centre at the University of Exeter and the Leibniz Institute of European History in Mainz with archival sessions at the Archives of the International Committee of the Red Cross in Geneva. The Research Academy addresses early career researchers who are working in the related fields of humanitarianism, international humanitarian law, peace and conflict studies as well as human rights covering the period from the 18th to the 20th century. It supports scholarship on the ideas and practices of humanitarianism in the context of international, imperial and global history thus advancing our understanding of global governance in humanitarian crises of the present.
 
