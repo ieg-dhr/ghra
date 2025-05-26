@@ -1,2 +1,1 @@
-# ghra
-website of the global humanitarianism research academy (ghra)
+repository of website of the global humanitarianism research academy (ghra)
